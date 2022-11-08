@@ -1,4 +1,4 @@
-[
+localStorage.setItem('recipes', JSON.stringify([
   {
     "imgSrc": "./assets/images/1_spooky-ghost-cookies.jpeg",
     "imgAlt": "Spooky Ghost Cookies",
@@ -32,4 +32,4 @@
     "lengthTime": "10 min",
     "ingredients": "White almond bark, mini chocolate chips"
   }
-]
+]));
